@@ -2,7 +2,6 @@
 
 - :computer: I am a Fullstack Web Developer and Software Engineer!
 - 🤖 I'm currently learning more about OpenAI! 
-- 🎮 I like to play video games in my free time!
 - :speech_balloon: Ask me about anything! 
 
 ## What I'm working with
