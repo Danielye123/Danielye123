@@ -1,7 +1,7 @@
 # Hi, I'm Daniel! 👋 
 
 - :computer: I am a Fullstack Web Developer and Software Engineer!
-- 🤖 I'm currently learning more about OpenAI! 
+- 🤖 I'm currently learning more about <span>ThreeJS<span>
 - :speech_balloon: Ask me about anything! 
 
 ## What I'm working with
