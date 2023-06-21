@@ -6,7 +6,7 @@ Hi, I'm Daniel! 👋
 - 🤖 I'm currently learning more about ThreeJS!
 - 🤔 I’m looking for a company that wants a enthusicatic and hard working developer to join their team.
 - 💬 I'm heavily intersted in Building new products, Nextjs, React, React-Three Fiber!
-- ⚡ Fun fact: I like to play video games!
+- ⚡ Fun fact: I like to play video games (My favorite is League of Legends) 🎮!
 
 ## What I'm working with
 
