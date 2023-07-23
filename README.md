@@ -46,3 +46,6 @@ Hi, I'm Daniel! 👋
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
+### ⚙️ &nbsp;GitHub Analytics
+![Daniel's GitHub stats](https://github.com/Danielye123/daniel-github-stats/blob/master/generated/overview.svg)
+![Top Langs](https://github.com/Danielye123/daniel-github-stats/blob/master/generated/languages.svg)
