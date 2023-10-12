@@ -2,7 +2,7 @@
 Hi, I'm Daniel! 👋 
 </h1>
 
-- :computer: I am a Fullstack Web Developer and Software Engineer!
+- :computer: I am a React Software Engineer!
 - 🤖 I'm currently learning more about ThreeJS!
 - 🤔 I’m looking for a company that wants an enthusicatic and hard working developer to join their team.
 - 💬 I'm heavily intersted in building new products, Nextjs, React, and React-Three Fiber!
