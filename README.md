@@ -1,12 +1,23 @@
 <h1 align='left'>
 Hi, I'm Daniel! 👋 
 </h1>
+<table>
+  <tr>
+    <td>
 
 - :computer: I am a React Software Engineer!
 - 🤖 I'm currently learning more about ThreeJS!
-- 🤔 I’m looking for a company that wants an enthusicatic and hard working developer to join their team.
-- 💬 I'm heavily intersted in building new products, Nextjs, React, and React-Three Fiber!
+- 🤔 I’m looking for a company that wants an enthusiastic and hardworking developer to join their team.
+- 💬 I'm heavily interested in building new products, Nextjs, React, and React-Three Fiber!
 - ⚡ Fun fact: I like to play video games (My favorite is League of Legends) 🎮!
+
+    </td>
+    <td>
+
+![GIF](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+
+  </tr>
+</table>
 
 ## What I'm working with
 
